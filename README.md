@@ -61,7 +61,6 @@
 
 在终端输入指令`ab -n 1000 -c 100 http://localhost:9090/hello/testuser`进行ab测试。
 ![](img/8.png)
-
 ![](img/9.png)
 
 其中重要的参数含义如下：
